@@ -1,6 +1,6 @@
 # MATH 3260 Linear Algebra — Student Course Materials
 
-This repository-ready package contains **student-facing course materials only**.
+This repository-ready package contains **student course materials only**.
 
 Included:
 
