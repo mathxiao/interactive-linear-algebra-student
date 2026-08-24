@@ -1,0 +1,86 @@
+{
+  "package": "MATH3260_Student_Course_Materials_GitHub",
+  "chapters": 10,
+  "student_notebooks": 10,
+  "notes_pdfs": 10,
+  "worksheet_pdfs": 10,
+  "notebook_outputs_remaining": 0,
+  "execution_counts_remaining": 0,
+  "raw_html_divs_remaining": 0,
+  "raw_style_cells_remaining": 0,
+  "vline_commands_remaining": 0,
+  "code_cells_syntax_checked": 219,
+  "code_cells_syntax_errors": [],
+  "forbidden_filenames": [],
+  "conversion_stats": {
+    "html_callouts_converted": 162,
+    "style_cells_removed": 1,
+    "outputs_cleared": 165
+  },
+  "runtime_spot_checks": [
+    {
+      "check": "Chapter 2 corrected show_augmented helper with [A|I] display",
+      "status": "pass"
+    },
+    {
+      "check": "Chapter 2 corrected matrix-multiplication diagram code",
+      "status": "pass"
+    },
+    {
+      "check": "Chapter 1 junction schematic after removing unsupported loop labels",
+      "status": "pass"
+    }
+  ],
+  "worksheet_solution_key_scan": [
+    {
+      "file": "Chapter_01_Linear_Systems_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_02_Matrices_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_03_Determinants_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_04_Vector_Spaces_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_05_Inner_Product_Spaces_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_06_Linear_Transformations_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_07_Eigenvalues_and_Eigenvectors_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_08_Complex_Vector_Spaces_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_09_Linear_Programming_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    },
+    {
+      "file": "Chapter_10_Numerical_Methods_Worksheets.pdf",
+      "status": "pass",
+      "solution_key_markers": []
+    }
+  ]
+}
