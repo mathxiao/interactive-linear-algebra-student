@@ -10,12 +10,6 @@ Included:
 - a course index notebook;
 - a small Python requirements file.
 
-Not included:
-
-- instructor notebooks;
-- worksheet solutions or answer keys;
-- instructor teaching guides;
-- source-alignment or validation files from the instructor packages.
 
 ## Getting started
 
